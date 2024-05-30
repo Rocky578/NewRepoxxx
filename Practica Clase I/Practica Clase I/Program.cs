@@ -30,7 +30,7 @@ namespace Practica_Clase_I
             int valor1, valor2;
             int resultado;
             
-            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.ForegroundColor = ConsoleColor.Green;
 
             Console.WriteLine("Introduce valor 1: ");
             valor1 = Convert.ToInt32(Console.ReadLine());
