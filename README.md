@@ -1,8 +1,3 @@
 # NewRepo
-eso mismo
-SEGUNDO INTENTO
-Tercer cambio ahora desde github
-klk papa mira que chulo
-otro cambio mas 
-
+PROGRAMA PARA LA SUMA DE DOS NUMEROS
 
